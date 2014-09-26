@@ -6,6 +6,6 @@ bittersweet
 
 
 INSTALLATION:
-  1) Open Sublime Text
-  2) / Preferences/ Browse packages/ Create a new folder (any name) / Paste the theme into it /
-  3) / ENJOY!! /
+  + Open Sublime Text
+  + / Preferences/ Browse packages/ Create a new folder (any name) / Paste the theme into it /
+  + / ENJOY!! /
